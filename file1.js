@@ -1,3 +1,0 @@
-ECHO on.
-test 
-ocean 
