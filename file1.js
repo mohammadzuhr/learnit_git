@@ -1,0 +1,3 @@
+ECHO on.
+test 
+ocean 
