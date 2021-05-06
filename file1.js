@@ -1,3 +1,3 @@
-ECHO is on.
+ECHO on.
 test 
 ocean 
